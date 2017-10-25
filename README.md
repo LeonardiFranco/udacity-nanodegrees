@@ -125,6 +125,39 @@ support hundreds of thousands of users.
 ---
 
 
+### Full Stack Web Developer Nanodegree
+
+#### _v4.0_
+
+This program will prepare you for a job as a Full Stack Web Developer, and teach
+you to build complex server-side web applications that use powerful relational
+databases to persistently store data.
+
+You’ll learn to build applications that can support any front-end, and scale to
+support hundreds of thousands of users.
+
+  1. [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+  2. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+  3. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+  4. [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
+  5. [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+  6. [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+  7. [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
+  8. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+  9. [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
+  10. [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+  11. [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+  12. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
+  13. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
+  14. [Google Maps APIs](https://www.udacity.com/course/google-maps-apis--ud864)
+  15. [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+  16. [Elective Course: Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
+  17. [Elective Course: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+
+
+---
+
+
 ### Data Analyst Nanodegree
 
 We built this program with expert analysts and scientists at leading technology
@@ -282,3 +315,25 @@ business problems.
   5. [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
   6. [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
   7. [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
+
+
+---
+
+
+### Mobile Web Specialist Nanodegree
+
+We built this Nanodegree program in partnership with Google for students with
+intermediate front-end web development skills who want to become professional
+mobile web developers. By the end of this program, you’ll have built a performant
+mobile web app project to show employers.
+
+ 1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+ 2. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
+ 3. [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
+ 4. [Asynchronous JavaScript Requests](https://www.udacity.com/course/asynchronous-javascript-requests--ud109)
+ 5. [ES6 JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
+ 6. [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
+ 7. [Web Tooling and Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
+
+
+---
