@@ -223,6 +223,7 @@ Learn to clean up messy data, uncover patterns and insights, make predictions us
   3.  [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
   4.  [Data Wrangling with MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032)
   5.  [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651)
+  5.5. [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) 
   6.  [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
   7.  [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
   8.  [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
