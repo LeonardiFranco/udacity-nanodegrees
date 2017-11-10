@@ -29,9 +29,10 @@ website are part of this list.
 
   * [Virtual Reality Nanodegree](#virtual-reality-nanodegree)
   * [Front-End Web Developer Nanodegree](#front-end-web-developer-nanodegree)
-  * [Front-End Web Developer Nanodegree v2.0](#front-end-web-developer-nanodegree-v2.0)
+  * [Front-End Web Developer Nanodegree v2.0](#front-end-web-developer-nanodegree-v20)
   * [Senior Web Developer Nanodegree](#senior-web-developer-nanodegree)
   * [Full Stack Web Developer Nanodegree](#full-stack-web-developer-nanodegree)
+  * [Full Stack Web Developer Nanodegree v4.0](#full-stack-web-developer-nanodegree-1)
   * [Data Analyst Nanodegree](#data-analyst-nanodegree)
   * [Machine Learning Engineer Nanodegree](#machine-learning-engineer-nanodegree)
   * [Tech Entrepreneur Nanodegree](#tech-entrepreneur-nanodegree)
