@@ -27,7 +27,9 @@ website are part of this list.
 
 ## Table of Contents
 
+  * [Virtual Reality Nanodegree](#virtual-reality-nanodegree)
   * [Front-End Web Developer Nanodegree](#front-end-web-developer-nanodegree)
+  * [Front-End Web Developer Nanodegree v2.0](#front-end-web-developer-nanodegree-v2.0)
   * [Senior Web Developer Nanodegree](#senior-web-developer-nanodegree)
   * [Full Stack Web Developer Nanodegree](#full-stack-web-developer-nanodegree)
   * [Data Analyst Nanodegree](#data-analyst-nanodegree)
@@ -38,6 +40,15 @@ website are part of this list.
   * [iOS Developer Nanodegree](#ios-developer-nanodegree)
   * [Mobile Game Developer Nanodegree](#mobile-game-developer-nanodegree)
   * [Predictive Analytics for Business Nanodegree](#predictive-analytics-for-business-nanodegree)
+
+
+---
+
+### Virtual​ ​Reality​ ​Nanodegree
+
+ 1. [Introduction to Virtual Reality](https://www.udacity.com/course/introduction-to-virtual-reality--ud1012)
+ 2. [VR Scenes and Objects](https://www.udacity.com/course/vr-scenes-and-objects--ud1013)
+ 3. [VR Software Development ](https://www.udacity.com/course/vr-software-development--ud1014)
 
 
 ---
@@ -65,6 +76,36 @@ JavaScript.
   10. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
   11. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
   12. [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
+
+
+---
+
+
+### Front-End Web Developer Nanodegree v2.0
+
+Master the skills required to become a Front-End Web Developer, and start
+building beautiful, responsive websites optimized for mobile and desktop
+performance.
+
+Learn the fundamentals of how the web works and gain a working knowledge of the
+three foundational languages that power each and every website: HTML, CSS and
+JavaScript.
+
+  1. [HTML and CSS Syntax](https://www.udacity.com/course/html-and-css-syntax--ud001)
+  2. [Responsive​ ​Web​ ​Design](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+  3. [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
+  4. [ES6 JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
+  5. [Shell​ ​Workshop](https://www.udacity.com/course/shell-workshop--ud206)
+  6. [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+  7. [Intro to JQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
+  8. [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015)
+  9. [Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
+  10. [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
+  11. [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
+  12. [Asynchronous JavaScript Requests](https://www.udacity.com/course/asynchronous-javascript-requests--ud109)
+  13. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
+  14. [Google Maps API](https://www.udacity.com/course/google-maps-apis--ud864)
+  15. [Front-End Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894)
 
 
 ---
@@ -334,6 +375,8 @@ mobile web app project to show employers.
  5. [ES6 JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
  6. [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
  7. [Web Tooling and Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
+ 8. [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+ 9. [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 
 
 ---
