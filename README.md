@@ -49,7 +49,6 @@ from very kind people who found the project useful and asked for them.
 ## Table of Contents
 
   * [Virtual Reality Nanodegree](#virtual-reality-nanodegree)
-  * [React ​Nanodegree](#react-nanodegree)
   * [Front-End Web Developer Nanodegree](#front-end-web-developer-nanodegree)
   * [Front-End Web Developer Nanodegree v2.0](#front-end-web-developer-nanodegree-v20)
   * [Senior Web Developer Nanodegree](#senior-web-developer-nanodegree)
@@ -68,9 +67,9 @@ from very kind people who found the project useful and asked for them.
 
 ### Virtual​ ​Reality​ ​Nanodegree
 
- 1. [Introduction to Virtual Reality](https://www.udacity.com/course/introduction-to-virtual-reality--ud1012)
- 2. [VR Scenes and Objects](https://www.udacity.com/course/vr-scenes-and-objects--ud1013)
- 3. [VR Software Development ](https://www.udacity.com/course/vr-software-development--ud1014)
+1. [Introduction to Virtual Reality](https://www.udacity.com/course/introduction-to-virtual-reality--ud1012)
+1. [VR Scenes and Objects](https://www.udacity.com/course/vr-scenes-and-objects--ud1013)
+1. [VR Software Development ](https://www.udacity.com/course/vr-software-development--ud1014)
 
 
 ---
@@ -231,7 +230,6 @@ Learn to clean up messy data, uncover patterns and insights, make predictions us
 1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 1. [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804)
 1. [A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
->>>>>>> upstream/master
 
 ---
 
